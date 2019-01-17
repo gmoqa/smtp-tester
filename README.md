@@ -1,15 +1,10 @@
 **SMTP-TESTER**
 ----
 
+**URL**: `/send`
 
-* **URL**
-
-  /send
-
-* **Method:**
-  
-
-  `POST`
+**Method:**
+`POST`
 
 **Body**
 
