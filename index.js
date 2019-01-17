@@ -12,7 +12,7 @@ app.get('/', (req, res) => {
     res.json({
         status : 'Ready',
         services :  {
-            sendEmail : {
+            send : {
                 url : "/send",
                 method: "POST",
                 body: {
